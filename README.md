@@ -27,6 +27,8 @@ Este é um **Sistema Simples de Processamento de Pagamentos** implementado em Py
 
 ## 🛠️ Como Executar o Projeto
 
+**OBS: O projeto utiliza o `uv` como ferramenta para gerenciar dependências, ambiente (venv) e versão do python.**
+
 1. Clone o repositório:
    ```sh
    git clone https://github.com/aluisiolucio/poo-solid-payment-system
