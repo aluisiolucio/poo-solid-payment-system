@@ -29,7 +29,7 @@ Este é um **Sistema Simples de Processamento de Pagamentos** implementado em Py
 
 1. Clone o repositório:
    ```sh
-   git clone https://
+   git clone https://github.com/aluisiolucio/poo-solid-payment-system
    cd poo-solid-payment-system
    ```
 2. Execute o script:
