@@ -8,7 +8,7 @@ class Payment(ABC):
 
     @abstractmethod
     def process_payment(self) -> None:
-        NotImplementedError
+        raise NotImplementedError
 
 
 # Implementação para payment via Pix (OCP e LSP)
